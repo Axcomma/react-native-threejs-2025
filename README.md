@@ -3,7 +3,7 @@ This project demonstrates how to load and display a 3D model using Three.js in a
 because nothing was working youtube tutorial/ blogs and chatgpt wasn't helpful so i made it myself with documentation
 
 ## Overview
-- Textures dosen't for this specific model
+- Textures dosen't work for this specific model i will publish a new example this week or the next week) with a model and a textures
 
 This is a minimal example of loading a .glb (GLTF binary) model in a React Native app using Expo and Three.js. It avoids unnecessary complexity (like custom textures for now) and focuses on getting a 3D model to render on mobile. If you're new to React Native or Three.js, this might help you avoid some common pitfalls.
 
