@@ -40,7 +40,7 @@ Use .gltf or .glb (binary GLTF). They’re lightweight, widely supported by Thre
  
    - Why are there so many deprecated packages and security warnings?
 
-even me i don't know and I couldn't resolve it for now, (as of 2025). Some Three.js dependencies or Expo packages might throw warnings. I switched to ```yarn``` because npm kept forcing me to use --legacy-peer-deps, which was annoying. If you’re curious why, check this explanation.
+even me i don't know and I couldn't resolve it for now, (as of 2025). Some Three.js dependencies or Expo packages might throw warnings. I switched to ```yarn``` because npm kept forcing me to use --legacy-peer-deps, which was annoying. If you’re curious why, [click here](https://stackoverflow.com/questions/66239691/what-does-npm-install-legacy-peer-deps-do-exactly-when-is-it-recommended-wh)
 
  - Can I store my 3D model in the assets folder and import it with require? 
 
